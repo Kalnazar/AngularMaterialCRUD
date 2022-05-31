@@ -1,0 +1,68 @@
+{
+  "productsList": [
+    {
+      "productName": "Apple",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 1000000,
+      "comment": "Something...",
+      "date": "2022-05-30T18:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Banana",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "I am Bananaaaaa",
+      "date": "2022-03-31T18:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Laptop Legion",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 20000000,
+      "comment": "Core i5 9th generation",
+      "date": "2022-06-14T18:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Cucumber",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 2000,
+      "comment": "I'm a fruit :). You can cook a salad with me)",
+      "date": "2022-05-04T18:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Tomato",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 3000,
+      "comment": "I am red",
+      "date": "2022-05-24T18:00:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "Macbook",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 1500000,
+      "comment": "I am a most popular laptop in the world",
+      "date": "2021-12-30T18:00:00.000Z",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
